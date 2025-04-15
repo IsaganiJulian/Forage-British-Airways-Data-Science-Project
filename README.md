@@ -25,24 +25,38 @@ This project is part of the British Airways Data Science Virtual Experience Prog
 - **Data Sources:** Customer reviews scraped from Skytrax; Booking data provided in CSV format.
 
 ## File Structure
-British-Airways-Data-Science-Project/
-│
-├── Data/
-│ ├── customer_reviews.csv # Scraped review data
-| ├── cleaned_skytrax_reviews.csv # Cleaned scraped data
-│ ├── customer_booking.csv # Booking data
-│
-├── Notebooks/
-│ ├── Task_1_Customer_Feedback.ipynb # NLP analysis on customer reviews
-│ ├── Task_2_Booking_Prediction.ipynb # Predictive modeling for bookings
-│
-├── Insights/
-│ ├── Task1.pdf # Task1 insights
-│ ├── Task2.pptx # Task2 insights
-│
-├── README.md # Project documentation
-├── requirements.txt # Required Python libraries
-└── LICENSE # License information
+Project Directory Structure
+### data
+
+- customer_reviews.csv — Scraped review data
+
+- cleaned_skytrax_reviews.csv — Cleaned scraped data
+
+- customer_booking.csv — Booking data
+
+### notebooks
+
+- Task_1_Customer_Feedback.ipynb — NLP analysis on customer reviews
+
+- Task_2_Booking_Prediction.ipynb — Predictive modeling for bookings
+
+### insights
+
+- Task1.pdf — Task 1 insights
+
+- Task2.pptx — Task 2 insights
+
+  ### Other
+
+- BritishAirways_cert.pdf - Completion certificate
+  
+- README.md — Project documentation
+
+- requirements.txt — Required Python libraries
+
+- LICENSE — License information
+
+
 
 
 ## Key Results
